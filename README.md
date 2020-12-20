@@ -36,6 +36,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+One challange I faced while building the app is how to use implement the dark mode into the app, in the end I just changed each background and text color of labels in order to implement dark mode. I believe there should exist an easier solution in implementing dark mode.
+Another challange I faced was uploading the gif using hackedmd, I was not able to upload the gif successfully but have included the link in the submission form.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
